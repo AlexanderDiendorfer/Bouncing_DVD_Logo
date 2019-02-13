@@ -1,3 +1,3 @@
-#Bouncing DVD Logo
+# Bouncing DVD Logo
 
-!["DVD Animation"](images/animation)
+!["DVD Animation"](images/animation.gif)
